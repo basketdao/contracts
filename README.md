@@ -41,6 +41,12 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | BaskBOND MerkleDistributor | 0x01dbecb4269bf2d4ec976d4b83cfde4568c03adc |
 | SUSHI-ETH-BDPI Refund MerkleDistributor | 0x3d216315810dc44ee873783159cc8cbc08d15fc0 |
 
+# Staking Rewards
+
+| Name | Address
+| --- | --- |
+| BASK Bond | 0x3c13813bCaCB0351ec84b5E1cc43943401B5F50a |
+
 # Ownerships
 
 | Name | Owner(s)/Admin(s) |
