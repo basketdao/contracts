@@ -19,6 +19,7 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | SUSHI-BDPI-ETH | [0x8d782c5806607e9aafb2ac38c1da3838edf8bd03](https://etherscan.io/address/0x8d782c5806607e9aafb2ac38c1da3838edf8bd03) |
 | SUSHI-BASK-ETH | [0x34d25a4749867ef8b62a0cd1e2d7b4f7af167e01](https://etherscan.io/address/0x34d25a4749867ef8b62a0cd1e2d7b4f7af167e01) |
 | StakedBaskEth (Snapshot Voting) | [0x891ED1597DB30FcD16c5e38A30BC65013E3222f4](https://etherscan.io/address/0x891ED1597DB30FcD16c5e38A30BC65013E3222f4) |
+| Bask BOND | [0x02d463574ce1e45d9f6258518d3ff7667c78383d](https://etherscan.io/address/0x02d463574ce1e45d9f6258518d3ff7667c78383d)
 
 # Baskets
 
@@ -31,6 +32,14 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | Name | Address |
 | --- | --- |
 | YieldFarmingV0 | [0x30FAfb287B582e21a81B492E59A33D58C659F4e2](https://etherscan.io/address/0x30FAfb287B582e21a81B492E59A33D58C659F4e2) |
+
+# MerkleDistributor
+
+| Name | Address |
+| --- | --- |
+| MerkleDistributor2 | 0xaa4B07bF68e007AF0B4d2a55fbeC1744b314b840 |
+| BaskBOND MerkleDistributor | 0x01dbecb4269bf2d4ec976d4b83cfde4568c03adc |
+| SUSHI-ETH-BDPI Refund MerkleDistributor | 0x3d216315810dc44ee873783159cc8cbc08d15fc0 |
 
 # Ownerships
 
@@ -48,6 +57,6 @@ Deployed Addresses for BasketDAO (Mainnet only)
 
 | Id | Token | Address |
 | --- | --- | --- |
-| 0 | DPI | 0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b |
-| 1 | UNIV2-DPI-ETH | 0x4d5ef58aAc27d99935E5b6B4A6778ff292059991 |
+| 0 | BDPI | 0x44564d0bd94343f72E3C8a0D22308B7Fa71DB0Bb |
+| 1 | SUSHI-BDPI-ETH | 0x8d782c5806607e9aafb2ac38c1da3838edf8bd03 |
 | 2 | SUSHI-BASK-ETH | 0x34d25a4749867ef8b62a0cd1e2d7b4f7af167e01 |
