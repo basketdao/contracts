@@ -92,7 +92,7 @@ Note: Other contracts, outside of the ones mentioned above, might be considered 
 ### Bug Bounty FAQ
 
 **Q:** Is there a time limit for the Bug Bounty program?\
-**A:** No. The Bug Bounty program currently has no end date, but this can be changed at any time at the discretion of Yearn.
+**A:** No. The Bug Bounty program currently has no end date, but this can be changed at any time at the discretion of BasketDAO.
 
 **Q:** How big is the Bug Bounty program?\
 **A:** There is currently a rolling \$100,000 bounty for bugs. This amount may be changed by a BasketDAO governance vote.
