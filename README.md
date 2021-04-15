@@ -13,7 +13,7 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | Migrator | [0x3EF214951FB258Ef240DA90D8c6305Eb6d08Fe63](https://etherscan.io/address/0x3EF214951FB258Ef240DA90D8c6305Eb6d08Fe63) |
 | SocialWeaverV1 | [0x3f436dE9ef3f07b770c4DB45F60f9f1d323Bbf36](https://etherscan.io/address/0x3f436dE9ef3f07b770c4DB45F60f9f1d323Bbf36) |
 | StandaloneWeaverV1 | [0x808844418cEFDb059966c56c2FF50dfD34a42DA9](https://etherscan.io/address/0x808844418cEFDb059966c56c2FF50dfD34a42DA9) |
-| StandaloneWeaverV1 | [0x2D1168C621394Af360155a7ca908cdE88Ab3744a](https://etherscan.io/address/0x2D1168C621394Af360155a7ca908cdE88Ab3744a) |
+| BASKMaker | [0x2D1168C621394Af360155a7ca908cdE88Ab3744a](https://etherscan.io/address/0x2D1168C621394Af360155a7ca908cdE88Ab3744a) |
 
 # Tokens
 | Name | Address |
