@@ -13,6 +13,7 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | Migrator | [0x3EF214951FB258Ef240DA90D8c6305Eb6d08Fe63](https://etherscan.io/address/0x3EF214951FB258Ef240DA90D8c6305Eb6d08Fe63) |
 | SocialWeaverV1 | [0x3f436dE9ef3f07b770c4DB45F60f9f1d323Bbf36](https://etherscan.io/address/0x3f436dE9ef3f07b770c4DB45F60f9f1d323Bbf36) |
 | StandaloneWeaverV1 | [0x808844418cEFDb059966c56c2FF50dfD34a42DA9](https://etherscan.io/address/0x808844418cEFDb059966c56c2FF50dfD34a42DA9) |
+| StandaloneWeaverV1 | [0x2D1168C621394Af360155a7ca908cdE88Ab3744a](https://etherscan.io/address/0x2D1168C621394Af360155a7ca908cdE88Ab3744a) |
 
 # Tokens
 | Name | Address |
@@ -20,8 +21,9 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | BASK (Gov Token) | [0x44564d0bd94343f72E3C8a0D22308B7Fa71DB0Bb](https://etherscan.io/address/0x44564d0bd94343f72E3C8a0D22308B7Fa71DB0Bb) |
 | SUSHI-BDPI-ETH | [0x8d782c5806607e9aafb2ac38c1da3838edf8bd03](https://etherscan.io/address/0x8d782c5806607e9aafb2ac38c1da3838edf8bd03) |
 | SUSHI-BASK-ETH | [0x34d25a4749867ef8b62a0cd1e2d7b4f7af167e01](https://etherscan.io/address/0x34d25a4749867ef8b62a0cd1e2d7b4f7af167e01) |
-| StakedBaskEth (Snapshot Voting) | [0x891ED1597DB30FcD16c5e38A30BC65013E3222f4](https://etherscan.io/address/0x891ED1597DB30FcD16c5e38A30BC65013E3222f4) |
+| BASKVoter (Snapshot Voting) | [0x31f232EadAe63F2f186F988F2BdcCF20F714f71B](https://etherscan.io/address/0x31f232EadAe63F2f186F988F2BdcCF20F714f71B) |
 | Bask BOND | [0x02d463574ce1e45d9f6258518d3ff7667c78383d](https://etherscan.io/address/0x02d463574ce1e45d9f6258518d3ff7667c78383d)
+| xBASK | [0x5C0e75EB4b27b5F9c99D78Fc96AFf7869eDa007b](https://etherscan.io/address/0x5C0e75EB4b27b5F9c99D78Fc96AFf7869eDa007b) |
 
 # Baskets
 
