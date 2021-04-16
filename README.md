@@ -13,7 +13,6 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | Migrator | [0x3EF214951FB258Ef240DA90D8c6305Eb6d08Fe63](https://etherscan.io/address/0x3EF214951FB258Ef240DA90D8c6305Eb6d08Fe63) |
 | SocialWeaverV1 | [0x3f436dE9ef3f07b770c4DB45F60f9f1d323Bbf36](https://etherscan.io/address/0x3f436dE9ef3f07b770c4DB45F60f9f1d323Bbf36) |
 | StandaloneWeaverV1 | [0x808844418cEFDb059966c56c2FF50dfD34a42DA9](https://etherscan.io/address/0x808844418cEFDb059966c56c2FF50dfD34a42DA9) |
-| BASKMaker | [0x2D1168C621394Af360155a7ca908cdE88Ab3744a](https://etherscan.io/address/0x2D1168C621394Af360155a7ca908cdE88Ab3744a) |
 
 # Tokens
 | Name | Address |
@@ -36,6 +35,12 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | Name | Address |
 | --- | --- |
 | YieldFarmingV0 | [0x30FAfb287B582e21a81B492E59A33D58C659F4e2](https://etherscan.io/address/0x30FAfb287B582e21a81B492E59A33D58C659F4e2) |
+
+# Fee Distributor
+
+| Name | Address | 
+| --- | --- |
+| BDPI-FeeDistributor | [0xC2451b67A3fFD623c7607943D57B68213111EC0c](https://etherscan.io/address/0xC2451b67A3fFD623c7607943D57B68213111EC0c) |
 
 # MerkleDistributor
 
