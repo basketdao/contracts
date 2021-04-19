@@ -35,6 +35,7 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | Name | Address |
 | --- | --- |
 | YieldFarmingV0 | [0x30FAfb287B582e21a81B492E59A33D58C659F4e2](https://etherscan.io/address/0x30FAfb287B582e21a81B492E59A33D58C659F4e2) |
+| YieldFarmingV1 | [0x4Bf45107599E21221CFFb1D281D73d147c963A98](https://etherscan.io/address/0x4Bf45107599E21221CFFb1D281D73d147c963A98) |
 
 # Fee Distributor
 
