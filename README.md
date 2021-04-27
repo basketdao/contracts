@@ -20,7 +20,7 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | BASK (Gov Token) | [0x44564d0bd94343f72E3C8a0D22308B7Fa71DB0Bb](https://etherscan.io/address/0x44564d0bd94343f72E3C8a0D22308B7Fa71DB0Bb) |
 | SUSHI-BDPI-ETH | [0x8d782c5806607e9aafb2ac38c1da3838edf8bd03](https://etherscan.io/address/0x8d782c5806607e9aafb2ac38c1da3838edf8bd03) |
 | SUSHI-BASK-ETH | [0x34d25a4749867ef8b62a0cd1e2d7b4f7af167e01](https://etherscan.io/address/0x34d25a4749867ef8b62a0cd1e2d7b4f7af167e01) |
-| BASKVoter (Snapshot Voting) | [0x31f232EadAe63F2f186F988F2BdcCF20F714f71B](https://etherscan.io/address/0x31f232EadAe63F2f186F988F2BdcCF20F714f71B) |
+| BASKVoter (Snapshot Voting) | [0xac5cd31706423cd0d67F5cF844d4441bc352f8FA](https://etherscan.io/address/0xac5cd31706423cd0d67F5cF844d4441bc352f8FA) |
 | Bask BOND | [0x02d463574ce1e45d9f6258518d3ff7667c78383d](https://etherscan.io/address/0x02d463574ce1e45d9f6258518d3ff7667c78383d)
 | xBASK | [0x5C0e75EB4b27b5F9c99D78Fc96AFf7869eDa007b](https://etherscan.io/address/0x5C0e75EB4b27b5F9c99D78Fc96AFf7869eDa007b) |
 
