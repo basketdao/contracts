@@ -8,7 +8,7 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | Governance | [0x2bF3cC8Fa6F067cc1741c7467C8Ee9F00e837757](https://etherscan.io/address/0x2bf3cc8fa6f067cc1741c7467c8ee9f00e837757) |
 | Dev Fund | [0x5566ff926fb4318c2862cfD7DBAe014034426D29](https://etherscan.io/address/0x5566ff926fb4318c2862cfD7DBAe014034426D29) |
 | Treasury | [0x7301C46be73bB04847576b6Af107172bF5e8388e](https://etherscan.io/address/0x7301C46be73bB04847576b6Af107172bF5e8388e) |
-| Market Maker | [0x381e2dd026f3e951cb5f4b5d2cc224673e4d6f6e](https://etherscan.io/address/0x381e2dd026f3e951cb5f4b5d2cc224673e4d6f6e) |
+| Vesting | [0x0A55694478fE01cb985f070b019B1Ba228843cfc](https://etherscan.io/address/0x0A55694478fE01cb985f070b019B1Ba228843cfc) |
 | Timelock (24h) | [0xAFa2c40DF28768eaB8aDD6f2572B32A7F8c86a5E](https://etherscan.io/address/0xAFa2c40DF28768eaB8aDD6f2572B32A7F8c86a5E) |
 | Masterchef | [0xDB9daa0a50B33e4fe9d0ac16a1Df1d335F96595e](https://etherscan.io/address/0xDB9daa0a50B33e4fe9d0ac16a1Df1d335F96595e) |
 | Migrator | [0x3EF214951FB258Ef240DA90D8c6305Eb6d08Fe63](https://etherscan.io/address/0x3EF214951FB258Ef240DA90D8c6305Eb6d08Fe63) |
