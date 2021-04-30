@@ -26,6 +26,7 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | BASKVoter (Snapshot Voting) | [0xac5cd31706423cd0d67F5cF844d4441bc352f8FA](https://etherscan.io/address/0xac5cd31706423cd0d67F5cF844d4441bc352f8FA) |
 | Bask BOND | [0x02d463574ce1e45d9f6258518d3ff7667c78383d](https://etherscan.io/address/0x02d463574ce1e45d9f6258518d3ff7667c78383d)
 | xBASK | [0x5C0e75EB4b27b5F9c99D78Fc96AFf7869eDa007b](https://etherscan.io/address/0x5C0e75EB4b27b5F9c99D78Fc96AFf7869eDa007b) |
+| BasketV | [0x5432256354078D6Ff45EF0fc39fC90Df2027d5f2](https://etherscan.io/address/0x5432256354078D6Ff45EF0fc39fC90Df2027d5f2) |
 
 # Baskets
 
