@@ -11,9 +11,6 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | Vesting | [0x0A55694478fE01cb985f070b019B1Ba228843cfc](https://etherscan.io/address/0x0A55694478fE01cb985f070b019B1Ba228843cfc) |
 | Timelock (24h) | [0xAFa2c40DF28768eaB8aDD6f2572B32A7F8c86a5E](https://etherscan.io/address/0xAFa2c40DF28768eaB8aDD6f2572B32A7F8c86a5E) |
 | Masterchef | [0xDB9daa0a50B33e4fe9d0ac16a1Df1d335F96595e](https://etherscan.io/address/0xDB9daa0a50B33e4fe9d0ac16a1Df1d335F96595e) |
-| Migrator | [0x3EF214951FB258Ef240DA90D8c6305Eb6d08Fe63](https://etherscan.io/address/0x3EF214951FB258Ef240DA90D8c6305Eb6d08Fe63) |
-| SocialWeaverV1 | [0x3f436dE9ef3f07b770c4DB45F60f9f1d323Bbf36](https://etherscan.io/address/0x3f436dE9ef3f07b770c4DB45F60f9f1d323Bbf36) |
-| StandaloneWeaverV1 | [0x808844418cEFDb059966c56c2FF50dfD34a42DA9](https://etherscan.io/address/0x808844418cEFDb059966c56c2FF50dfD34a42DA9) |
 | Delayed Minter | [0x322d82c74bA6A9e839047d1d2e2F64449F16Ec20](https://etherscan.io/address/0x322d82c74bA6A9e839047d1d2e2F64449F16Ec20) |
 | Delayed Burner | [0xd1a8e62bD03D5A2c22514619f86083770E93Ee9a](https://etherscan.io/address/0xd1a8e62bD03D5A2c22514619f86083770E93Ee9a) |
 
