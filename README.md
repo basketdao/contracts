@@ -37,6 +37,7 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | --- | --- |
 | YieldFarmingV1 | [0x4Bf45107599E21221CFFb1D281D73d147c963A98](https://etherscan.io/address/0x4Bf45107599E21221CFFb1D281D73d147c963A98) |
 | RebalancingV3 | [0xB0af1ebC95bc8A7fED1b8CCDfE74FaA5fE1a980a](https://etherscan.io/address/0xB0af1ebC95bc8A7fED1b8CCDfE74FaA5fE1a980a) |
+| YearnV1 | [0x36d0283a975D0De38c7b28bA6521c878d7c71C13](https://etherscan.io/address/0x36d0283a975D0De38c7b28bA6521c878d7c71C13) |
 
 # Fee Distributor
 
