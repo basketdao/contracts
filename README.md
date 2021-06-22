@@ -29,9 +29,10 @@ Deployed Addresses for BasketDAO (Mainnet only)
 
 | Name | Address |
 | --- | --- |
-| BDPI | [0x0309c98B1bffA350bcb3F9fB9780970CA32a5060](https://etherscan.io/address/0x0309c98B1bffA350bcb3F9fB9780970CA32a5060) |
+| BDI | [0x0309c98B1bffA350bcb3F9fB9780970CA32a5060](https://etherscan.io/address/0x0309c98B1bffA350bcb3F9fB9780970CA32a5060) |
+| BMI | [0x948c23e621Dd573257CA5Dde5945d125E9F39c83](https://etherscan.io/address/0x948c23e621Dd573257CA5Dde5945d125E9F39c83) |
 
-# Modules
+# BDI-Modules
 
 | Name | Address |
 | --- | --- |
