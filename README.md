@@ -32,6 +32,11 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | BDI | [0x0309c98B1bffA350bcb3F9fB9780970CA32a5060](https://etherscan.io/address/0x0309c98B1bffA350bcb3F9fB9780970CA32a5060) |
 | BMI | [0x0aC00355F80E289f53BF368C9Bdb70f5c114C44B](https://etherscan.io/address/0x0aC00355F80E289f53BF368C9Bdb70f5c114C44B) |
 
+# Zappers
+
+| Name | Address |
+| BMIZapper | [0x5ff4f0d6b12637481ab004964eafc84f3b5c97cc](https://etherscan.io/address/0x5ff4f0d6b12637481ab004964eafc84f3b5c97cc) |
+
 # BDI-Modules
 
 | Name | Address |
