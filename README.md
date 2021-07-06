@@ -43,14 +43,8 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | Name | Address |
 | --- | --- |
 | YieldFarmingV1 | [0x4Bf45107599E21221CFFb1D281D73d147c963A98](https://etherscan.io/address/0x4Bf45107599E21221CFFb1D281D73d147c963A98) |
-| RebalancingV3 | [0xB0af1ebC95bc8A7fED1b8CCDfE74FaA5fE1a980a](https://etherscan.io/address/0xB0af1ebC95bc8A7fED1b8CCDfE74FaA5fE1a980a) |
+| RebalancingV5 | [0x860F5de0f06c71c2Eff7C6A1fFa9Ff885D77a6B6](https://etherscan.io/address/0x860F5de0f06c71c2Eff7C6A1fFa9Ff885D77a6B6) |
 | YearnV1 | [0x36d0283a975D0De38c7b28bA6521c878d7c71C13](https://etherscan.io/address/0x36d0283a975D0De38c7b28bA6521c878d7c71C13) |
-
-# Fee Distributor
-
-| Name | Address | 
-| --- | --- |
-| BDPI-FeeDistributor | [0xC2451b67A3fFD623c7607943D57B68213111EC0c](https://etherscan.io/address/0xC2451b67A3fFD623c7607943D57B68213111EC0c) |
 
 # MerkleDistributor
 
@@ -65,6 +59,8 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | Name | Address
 | --- | --- |
 | BASK Bond | 0x3c13813bCaCB0351ec84b5E1cc43943401B5F50a |
+| SUSHI-BASK-ETH (BASK + SUSHI) | 0x45E1e00F1CE25bDd8A518f62F6cD89aF2ba2c4D4 |
+| SUSHI-BDI-ETH (BASK + SUSHI) | 0x2cfDBa69464acae0087476ca78B6b0025E9fc0DD |
 
 # Ownerships
 
@@ -77,11 +73,3 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | Masterchef | Timelock |
 | BDPI | Timelock |
 | BASK | Masterchef |
-
-# Masterchef Pools
-
-| Id | Token | Address |
-| --- | --- | --- |
-| 0 | BDPI | 0x44564d0bd94343f72E3C8a0D22308B7Fa71DB0Bb |
-| 1 | SUSHI-BDPI-ETH | 0x8d782c5806607e9aafb2ac38c1da3838edf8bd03 |
-| 2 | SUSHI-BASK-ETH | 0x34d25a4749867ef8b62a0cd1e2d7b4f7af167e01 |
