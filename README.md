@@ -61,7 +61,7 @@ Deployed Addresses for BasketDAO (Mainnet only)
 
 | Name | Address
 | --- | --- |
-| BASK Bond | 0x3c13813bCaCB0351ec84b5E1cc43943401B5F50a |
+| BMI | 0x1AF13aba9F1b269678bAf61Da7Ff419ae0F8439A |
 | SUSHI-BASK-ETH (BASK + SUSHI) | 0x45E1e00F1CE25bDd8A518f62F6cD89aF2ba2c4D4 |
 | SUSHI-BDI-ETH (BASK + SUSHI) | 0x2cfDBa69464acae0087476ca78B6b0025E9fc0DD |
 
