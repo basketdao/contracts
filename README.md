@@ -44,10 +44,16 @@ Deployed Addresses for BasketDAO (Mainnet only)
 | Name | Address |
 | --- | --- |
 | YieldFarmingV1 | [0x4Bf45107599E21221CFFb1D281D73d147c963A98](https://etherscan.io/address/0x4Bf45107599E21221CFFb1D281D73d147c963A98) |
-| RebalancingV6 | [0xc0F4021bdd7e68795A53fBf1cC1628a211Ab1468](https://etherscan.io/address/0xc0F4021bdd7e68795A53fBf1cC1628a211Ab1468) |
+| RebalancingV6 | [0x639d1447182e7c33c1f8bbb9466d5523a933da2a](https://etherscan.io/address/0x639d1447182e7c33c1f8bbb9466d5523a933da2a) |
 | YearnV1 | [0x36d0283a975D0De38c7b28bA6521c878d7c71C13](https://etherscan.io/address/0x36d0283a975D0De38c7b28bA6521c878d7c71C13) |
 | Delayed Minter | [0xd7325bdeD839eBA326aAd3BE44218EDb9D36faC7](https://etherscan.io/address/0xd7325bdeD839eBA326aAd3BE44218EDb9D36faC7) |
 | Delayed Burner | [0x1f316C385a5249c83f48061DE45E691ACDc98F06](https://etherscan.io/address/0x1f316C385a5249c83f48061DE45E691ACDc98F06) |
+
+# BMI-Modules
+
+| Name | Address |
+| --- | --- |
+| RebalancingV1 | [0x104a30818e0c6ebd58d1ff3d0d72ab90e57d4134](https://etherscan.io/address/0x104a30818e0c6ebd58d1ff3d0d72ab90e57d4134) |
 
 # MerkleDistributor
 
